@@ -1,37 +1,44 @@
-<h1 align="center">👋 Hey, I'm Mitesh Yadav</h1>
-<h3 align="center">1st Year B.Tech Student • Cyber Security Learner • Future Ethical Hacker</h3>
+<h1 align="center">Hi 👋, I'm Mitesh Yadav</h1>
+<h3 align="center">B.Tech Computer Science Student | Frontend Developer | JavaScript Developer</h3>
 
 ---
-
 
 ## 🚀 About Me
-•⁠  ⁠🔐 Cyber Security & Ethical Hacking Enthusiast  
-•⁠  ⁠🧠 Learning: Kali Linux, Nmap, Wireshark, Python, Networking  
-•⁠  ⁠🛡 Interested in Bug Bounties, CTFs, and Web App Security  
-•⁠  ⁠💡 Trying security labs on TryHackMe & HackTheBox  
-•⁠  ⁠🎯 Goal 2025: Become a skilled Pentester + start bug bounty journey  
 
----
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
+- 💻 I build responsive and interactive web applications  
+- ⚡ Skilled in JavaScript, HTML5, and CSS3  
+- 📚 Focused on building practical projects and improving problem-solving skills  
+- 🎯 Goal: To become a professional Frontend Developer  
 
 ---
 
-## 🔥 Tech Stack
+## 🛠 Tech Stack
 
-*Cyber Security Tools:*  
-⁠ Kali Linux ⁠ ⁠ Burp Suite ⁠ ⁠ Nmap ⁠ ⁠ Wireshark ⁠ ⁠ Metasploit ⁠
+### 💡 Languages
+- JavaScript  
+- HTML5  
+- CSS3  
+- Python (Basics)  
 
-*Programming:*  
-⁠ Python ⁠ ⁠ HTML ⁠ ⁠ CSS ⁠ ⁠ Bash ⁠
-
-*Other Skills:*  
-⁠ Networking Basics ⁠ ⁠ Linux ⁠ ⁠ Security Analysis ⁠
+### 🔧 Tools
+- Git  
+- GitHub  
+- VS Code  
 
 ---
 
-### 🔗 Connect with Me
+## 📫 Connect With Me
+
 <p align="left">
- 
-  <a href="https://www.linkedin.com/in/mitesh-yadav-840753370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:2025.miteshy@isu.ac.in" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://www.linkedin.com/in/mitesh-yadav-840753370/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:2025.miteshy@isu.ac.in" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
+
+---
+
+⭐ Always learning and building real-world projects.

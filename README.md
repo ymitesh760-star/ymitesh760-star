@@ -1,44 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mitesh Yadav</h1>
-<h3 align="center">B.Tech Computer Science Student | Frontend Developer | JavaScript Developer</h3>
+<h1 align="center">⚡ Mitesh Yadav ⚡</h1>
 
----
+<p align="center">
+  💻 B.Tech CSE Student • 🚀 Aspiring Developer • ⚡ Tech Enthusiast
+</p>
 
-## 🚀 About Me
-
-- 💻 I build responsive and interactive web applications  
-- ⚡ Skilled in JavaScript, HTML5, and CSS3  
-- 📚 Focused on building practical projects and improving problem-solving skills  
-- 🎯 Goal: To become a professional Frontend Developer  
-
----
-
-## 🛠 Tech Stack
-
-### 💡 Languages
-- JavaScript  
-- HTML5  
-- CSS3  
-- Python (Basics)  
-
-### 🔧 Tools
-- Git  
-- GitHub  
-- VS Code  
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/mitesh-yadav-840753370/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="mailto:2025.miteshy@isu.ac.in" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=700&lines=Frontend+Developer;DSA+Explorer;React.js+Learner;Building+Cool+Stuff+🚀;Welcome+to+My+GitHub+💀" />
 </p>
 
 ---
 
-⭐ Always learning and building real-world projects.
+## 🧠 About Me
+
+```js
+const mitesh = {
+  role: "Aspiring Frontend Developer",
+  education: "B.Tech CSE (1st Year)",
+  skills: ["HTML", "CSS", "JavaScript", "C++"],
+  learning: ["DSA", "React.js"],
+  goal: "Become a Top Developer 🚀"
+};

@@ -1,3 +1,20 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=MITESH%20YADAV&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%20Frontend%20Developer%20_%20DSA%20_%20React%20_%20Backend(Learning)&descAlignY=55&descSize=18&descColor=39ff14" width="100%"/>
+
+### `root@mitesh:~$ whoami`
+### > Exploring Backend... | Currently learning DSA 🟢
+
+<img src="https://komarev.com/ghpvc/?username=ymitesh760-star&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<br>
+
+> 💻 `root@mitesh:~$ cat about.txt`
+
+<div align="center">
+
 </div>
 
 <br>
@@ -33,4 +50,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/mitesh-yadav-b89192415/)
 [![Email](https://img.shields.io/badge/EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:ymitesh760@gmail.com)
 
-<br>
+<br> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer"/>
+
+</div>

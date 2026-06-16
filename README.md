@@ -1,17 +1,15 @@
-<h1 align="center">> Mitesh Yadav_</h1>
+<h1 align="center">> <code>Mitesh_Yadav</code>_</h1>
+
+<p align="center">
+<code>initializing identity...</code>
+</p>
 
 <p align="center">
 <code>Frontend Developer | DSA | React | Backend Loading...</code>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=Initializing+System...;Loading+Modules...;Access+Granted...;Welcome+to+My+GitHub" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=Initializing+System...;Access+Granted...;Loading+Modules...;Welcome+to+My+GitHub" />
 </p>
 
 ---
@@ -19,22 +17,22 @@
 ## > whoami
 
 ```bash
-Name: Mitesh Yadav
-Role: Frontend Developer
-Education: B.Tech CSE (1st Year)
+> name: mitesh yadav
+> role: frontend developer
+> education: b.tech cse
 
-Skills:
-- HTML
-- CSS
-- JavaScript
-- C++
-- React.js
-- Data Structures & Algorithms
+> skills:
+  - html
+  - css
+  - javascript
+  - c++
+  - react.js
+  - data structures & algorithms
 
-Currently:
-- Practicing DSA
-- Building React Projects
-- Exploring Backend (Node.js)
+> currently:
+  - practicing dsa
+  - building react projects
+  - exploring backend (node.js)
 
-Goal:
-- Become a Full Stack Developer 
+> goal:
+  - full stack developer

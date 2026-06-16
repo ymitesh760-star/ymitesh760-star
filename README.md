@@ -43,7 +43,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mitesh-yadav-840753370">
+  <a href="https://https://www.linkedin.com/in/mitesh-yadav-b89192415/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 

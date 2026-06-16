@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=MITESH%20YADAV&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%20 Frontend%20Developer%20%20DSA%20_%20React%20_%2 0Backend(Learning) descAlignY=55&descSize=18descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=MITESH%20YADAV&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20DSA%20%7C%20React%20%7C%20Backend%20(Learning)&descAlignY=55&descSize=18&descColor=39ff14" width="100%"/>
 
 ### `root@mitesh:~$ whoami`
-###  Exploring Backend... Currently learning DSA 🟢
+### 🟢 Exploring Backend... | Currently learning DSA
 
 <img src="https://komarev.com/ghpvc/?username=ymitesh760-star&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
 
@@ -11,15 +11,16 @@
 
 <br>
 
-> 💻 `root@mitesh:~$ cat about.txt`
+## 📂 About Me
 
-<div align="center">
+I build clean and modern web interfaces with a focus on performance and user experience.
+Currently improving problem-solving skills with DSA and expanding into backend development.
 
-</div>
+🎓 1st Year Student | 💻 Frontend Dev | 🚀 Learning Backend
 
 <br>
 
-> 💻 `root@mitesh:~$ ls -la ./tech-stack/`
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -29,7 +30,7 @@
 
 <br>
 
-> 💻 `root@mitesh:~$ ./scan_github_stats.sh --target=ymitesh760-star`
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -43,14 +44,21 @@
 
 <br>
 
-> 💻 `root@mitesh:~$ nc -lvp connect --establish-link`
+## 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/mitesh-yadav-b89192415/)
 [![Email](https://img.shields.io/badge/EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:ymitesh760@gmail.com)
 
-<br> 
+</div>
+
+<br>
+
+<div align="center">
+
+**Keep Building 🚀 Stay Consistent 🔥**
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer"/>
 
 </div>

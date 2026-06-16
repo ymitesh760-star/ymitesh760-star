@@ -16,7 +16,7 @@
 - Skilled in HTML, CSS, JavaScript, and C++  
 - Currently learning Data Structures & Algorithms and React.js  
 - Exploring Backend Development (Node.js, APIs)  
-- Aim: Becoming a Full Stack Developer 🚀  
+- Aim: Becoming a Full Stack Developer   
 
 ---
 

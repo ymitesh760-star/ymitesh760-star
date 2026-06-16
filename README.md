@@ -1,56 +1,84 @@
-<h1 align="center">Mitesh Yadav</h1>
+<div align="center">
 
-<p align="center">
-Frontend Developer • DSA • React • Backend (Learning)
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=MITESH%20YADAV&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%20Frontend%20Developer%20_%20DSA%20_%20React%20_%20Backend(Learning)&descAlignY=55&descSize=18&descColor=39ff14" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;Learning+DSA+%26+React;Exploring+Backend;Focused+on+Growth" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=root%40mitesh%3A~%24+whoami;Frontend+Developer+%7C+React+Dev;%3E+Exploring+Backend...;%3E+Currently+learning+DSA;sudo+access+granted_" alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=ymitesh760-star&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
 
-## About
+</div>
 
-I build clean and modern web interfaces with a focus on performance and user experience.  
-Currently improving problem-solving skills with DSA and expanding into backend development.
+<br>
 
----
+```ansi
+[1;32m┌──(mitesh㉿kali)-[~]
+└─$[0m cat about.txt
+```
 
-## Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,nodejs,git,github,vscode" />
-</p>
+```
+> I build clean and modern web interfaces with a focus on
+  performance and user experience.
 
----
+> Currently improving problem-solving skills with DSA and
+  expanding into backend development.
 
-## GitHub Stats
+> STATUS: [ACTIVE] | MISSION: Exploring Backend
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ymitesh760-star&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ymitesh760-star&theme=tokyonight&hide_border=true" />
-</p>
+<br>
 
----
+```ansi
+[1;32m┌──(mitesh㉿kali)-[~]
+└─$[0m ls -la ./tech-stack/
+```
 
-## Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mitesh-yadav-b89192415/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  
-  <a href="mailto:ymitesh760@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,nodejs,git,github,vscode&theme=dark" />
 
----
+</div>
 
-<p align="center">
-Keep Building • Stay Consistent
-</p>
+<br>
+
+```ansi
+[1;32m┌──(mitesh㉿kali)-[~]
+└─$[0m ./scan_github_stats.sh --target=ymitesh760-star
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ymitesh760-star&show_icons=true&theme=react&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&border_color=00ff41&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ymitesh760-star&theme=react&background=0d1117&border=00ff41&stroke=00ff41&ring=39ff14&fire=39ff14&currStreakLabel=00ff41" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymitesh760-star&layout=compact&theme=react&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ymitesh760-star&theme=react-dark&bg_color=0d1117&color=00ff41&line=39ff14&point=ffffff&area=true&hide_border=true" width="48%"/>
+
+</div>
+
+<br>
+
+```ansi
+[1;32m┌──(mitesh㉿kali)-[~]
+└─$[0m nc -lvp connect --establish-link
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/mitesh-yadav-b89192415/)
+[![Email](https://img.shields.io/badge/EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:ymitesh760@gmail.com)
+
+<br>
+
+```
+[ CONNECTION ESTABLISHED ]
+> Keep Building :: Stay Consistent
+> root@mitesh:~# exit
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer"/>
+
+</div>

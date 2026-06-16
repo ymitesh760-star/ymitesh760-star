@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=MITESH%20YADAV&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%20Frontend%20Developer%20_%20DSA%20_%20React%20_%20Backend(Learning)&descAlignY=55&descSize=18&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=MITESH%20YADAV&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%20 Frontend%20Developer%20%20DSA%20_%20React%20_%2 0Backend(Learning) descAlignY=55&descSize=18descColor=39ff14" width="100%"/>
 
 ### `root@mitesh:~$ whoami`
 ###  Exploring Backend... Currently learning DSA 🟢

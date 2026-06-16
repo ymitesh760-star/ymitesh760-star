@@ -1,40 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=MITESH%20YADAV&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%20Frontend%20Developer%20_%20DSA%20_%20React%20_%20Backend(Learning)&descAlignY=55&descSize=18&descColor=39ff14" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=root%40mitesh%3A~%24+whoami;Frontend+Developer+%7C+React+Dev;%3E+Exploring+Backend...;%3E+Currently+learning+DSA;sudo+access+granted_" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=ymitesh760-star&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
-
 </div>
 
 <br>
 
-```ansi
-[1;32m┌──(mitesh㉿kali)-[~]
-└─$[0m cat about.txt
-```
-
-<div align="center">
-
-```
-> I build clean and modern web interfaces with a focus on
-  performance and user experience.
-
-> Currently improving problem-solving skills with DSA and
-  expanding into backend development.
-
-> STATUS: [ACTIVE] | MISSION: Exploring Backend
-```
-
-</div>
-
-<br>
-
-```ansi
-[1;32m┌──(mitesh㉿kali)-[~]
-└─$[0m ls -la ./tech-stack/
-```
+> 💻 `root@mitesh:~$ ls -la ./tech-stack/`
 
 <div align="center">
 
@@ -44,10 +12,7 @@
 
 <br>
 
-```ansi
-[1;32m┌──(mitesh㉿kali)-[~]
-└─$[0m ./scan_github_stats.sh --target=ymitesh760-star
-```
+> 💻 `root@mitesh:~$ ./scan_github_stats.sh --target=ymitesh760-star`
 
 <div align="center">
 
@@ -61,10 +26,7 @@
 
 <br>
 
-```ansi
-[1;32m┌──(mitesh㉿kali)-[~]
-└─$[0m nc -lvp connect --establish-link
-```
+> 💻 `root@mitesh:~$ nc -lvp connect --establish-link`
 
 <div align="center">
 
@@ -72,13 +34,3 @@
 [![Email](https://img.shields.io/badge/EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:ymitesh760@gmail.com)
 
 <br>
-
-```
-[ CONNECTION ESTABLISHED ]
-> Keep Building :: Stay Consistent
-> root@mitesh:~# exit
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer"/>
-
-</div>

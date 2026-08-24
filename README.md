@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=MITESH%20YADAV&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20DSA%20%7C%20React%20%7C%20Backend%20(Learning)&descAlignY=55&descSize=18&descColor=39ff14" width="100%"/>
 
-### `root@mitesh:~$ whoami`
+### @mitesh_75
 ### 🟢 Exploring Backend... | Currently learning DSA
 
 <img src="https://komarev.com/ghpvc/?username=ymitesh760-star&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />

@@ -1,273 +1,158 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,30:0F172A,60:312E81,100:06B6D4&text=MITESH%20YADAV&fontSize=65&fontColor=FFFFFF&stroke=06B6D4&strokeWidth=1&animation=fadeIn&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20CREATIVE%20ENGINEER&descSize=16&descAlignY=65"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mitesh+Yadav+%F0%9F%91%8B;Frontend+Developer+%E2%86%92+Fullstack;I+build+fast%2C+animated%2C+pixel-perfect+UIs;React+%7C+Three.js+%7C+Framer+Motion" alt="Typing SVG" />
 
-<br/>
+<p>
+  <b>B.Tech CSE</b> · <b>Frontend Developer</b> · <b>Moving to Fullstack</b>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=I+BUILD+THINGS+THAT+LIVE+ON+THE+INTERNET.;CODE+IS+MY+CANVAS.+LOGIC+IS+MY+ART.;FROM+IDEA+%E2%86%92+CODE+%E2%86%92+REALITY.;ALWAYS+BUILDING.+NEVER+STANDING+STILL." />
-
-<br/><br/>
-
-<a href="https://mitesh-s-portfolio-ebon.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=020617"/>
-</a>
-<a href="https://github.com/ymitesh760-star">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=020617"/>
-</a>
-<a href="https://www.linkedin.com/in/mitesh-yadav-b89192415/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=020617"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ymitesh760-star&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
+<a href="https://mitesh-s-portfolio-ebon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:ymitesh760@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=ymitesh760-star&style=for-the-badge&color=2ea043&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-### `01 — THE DEVELOPER`
+I design and build modern web interfaces with a focus on **clean UI, smooth motion and performance**. From luxury restaurant sites to e-commerce stores and 3D portfolio scenes, I like turning a design idea into a polished, production-style experience.
 
-</div>
-
-```bash
-┌──[mitesh@dev-machine]──[~/profile]
-└──$ whoami
-
-    Name       : Mitesh Yadav
-    Role       : Software Developer in Progress
-    Education  : B.Tech Computer Science
-    Location   : Mumbai, India
-    Focus      : Web Development | DSA | Software Engineering
-    Philosophy : Learn Deeply. Build Boldly.
-```
-
-I'm a Computer Science student driven by curiosity, creativity, and the desire to build things that actually work.
-
-I enjoy transforming ideas into interactive digital experiences — from algorithm visualizers to modern web applications.
-
-My journey is about more than writing code. It's about understanding how things work, solving problems, and building products that people can use.
-
-**Currently in my build-and-learn era.**
-
----
-
-<div align="center">
-
-### `02 — MY ENGINEERING STACK`
-
-*The tools I use to turn ideas into reality.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### `// CORE LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js&perline=4"/>
-
-#### `// FRONTEND ENGINEERING`
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&perline=4"/>
-
-</td>
-<td width="50%" valign="top">
-
-#### `// BACKEND & DATA`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=5"/>
-
-#### `// DEV ENVIRONMENT`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&perline=5"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `03 — SELECTED PROJECTS`
-
-*Experiments, ideas, and applications built with code.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ PATHFINDING VISUALIZER
-
-<img src="https://img.shields.io/badge/PROJECT-ALGORITHMS-312E81?style=flat-square"/>
-
-An interactive visual playground that brings pathfinding algorithms to life.
-
-**What it explores**
-- A* Search Algorithm
-- Grid-based pathfinding
-- Interactive algorithm visualization
-- Shortest-path exploration
-
-**Stack:** React · JavaScript · Algorithms
-
-<a href="https://pathfinding-visualizer-react-js-pro.vercel.app/">
-<img src="https://img.shields.io/badge/LAUNCH%20PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ STYLENEST
-
-<img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-312E81?style=flat-square"/>
-
-A modern fashion shopping experience built around product discovery and stylish UI.
-
-**What it explores**
-- Fashion product experience
-- Modern responsive design
-- E-commerce interface
-- Firebase integration
-
-**Stack:** Web Development · Firebase
-
-<a href="https://stylenest-ecommerce-flame.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20STYLENEST-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ◈ DJ MITESHHH 75
-
-<img src="https://img.shields.io/badge/PROJECT-MUSIC%20TECH-312E81?style=flat-square"/>
-
-A personal music platform concept built around DJ remixes and audio experiences.
-
-**What it explores**
-- Audio upload workflows
-- Music library management
-- Firebase Authentication
-- Cloud audio storage
-
-**Stack:** React · JavaScript · Firebase
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ DEVELOPER PORTFOLIO
-
-<img src="https://img.shields.io/badge/PROJECT-PERSONAL%20BRAND-312E81?style=flat-square"/>
-
-My digital home — a showcase of my projects, skills, and developer journey.
-
-**What it explores**
-- Interactive UI
-- Modern animations
-- Project showcase
-- Personal branding
-
-<a href="https://mitesh-s-portfolio-ebon.vercel.app/">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `04 — CURRENTLY IN THE LAB`
-
-</div>
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│  MITESH.DEV // ACTIVE WORKSPACE                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [01]  React.js & JavaScript                             │
-│        Building modern interactive interfaces            │
-│                                                          │
-│  [02]  Data Structures & Algorithms                      │
-│        Improving problem-solving fundamentals            │
-│                                                          │
-│  [03]  Backend Development                                │
-│        Exploring APIs, databases & authentication        │
-│                                                          │
-│  [04]  Software Engineering                               │
-│        Turning project ideas into real applications      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+```js
+const mitesh = {
+  role: "Frontend Developer",
+  focus: ["React", "Animations", "3D on the Web", "UI/UX"],
+  learning: ["Node.js", "Java", "SQL / DBMS", "Cybersecurity"],
+  goal: "Fullstack Developer",
+  currentlyBuilding: "Client-style web projects & a minimal portfolio",
+  funFact: "I learn German on the side 🇩🇪",
+};
 ```
 
 ---
 
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Animation & 3D**
+
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Database** *(growing)*
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Languages & Tools**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍷 Noir &amp; Or</h3>
+      <p>Luxury fine-dining restaurant website built as an agency-style portfolio piece. Dark, elegant, motion-driven.</p>
+      <p><code>React</code> <code>Vite</code> <code>Framer Motion</code> <code>Tailwind</code></p>
+      <a href="https://github.com/ymitesh760-star/REPO-NAME">Code</a> · <a href="https://LIVE-LINK">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👟 SoleVault</h3>
+      <p>Sneaker e-commerce landing page with a dark-luxury redesign and smooth product-focused interactions.</p>
+      <p><code>React</code> <code>Vite</code> <code>CSS</code></p>
+      <a href="https://github.com/ymitesh760-star/REPO-NAME">Code</a> · <a href="https://LIVE-LINK">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👗 CHREZA</h3>
+      <p>Women's fashion store with quiet-luxury animations, soft transitions and a refined editorial feel.</p>
+      <p><code>React</code> <code>Vite</code> <code>Framer Motion</code></p>
+      <a href="https://github.com/ymitesh760-star/women-fashion-store">Code</a> · <a href="https://LIVE-LINK">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ 3D Portfolio</h3>
+      <p>Interactive portfolio with a 3D desk scene rendered in the browser using React Three Fiber.</p>
+      <p><code>React</code> <code>Three.js</code> <code>R3F</code></p>
+      <a href="https://github.com/ymitesh760-star/REPO-NAME">Code</a> · <a href="https://LIVE-LINK">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 Pathfinding Visualizer</h3>
+      <p>Interactive visualizer that shows how pathfinding algorithms explore a grid, step by step.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>Algorithms</code></p>
+      <a href="https://github.com/ymitesh760-star/REPO-NAME">Code</a> · <a href="https://LIVE-LINK">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio v2</h3>
+      <p>Minimal, clean fullstack-developer-style portfolio. Fast, readable and focused on the work.</p>
+      <p><code>React</code> <code>Vite</code> <code>Tailwind</code></p>
+      <a href="https://mitesh-s-portfolio-ebon.vercel.app">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-### `05 — GITHUB // SYSTEM METRICS`
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ymitesh760-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymitesh760-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-*My activity, repositories, and coding journey.*
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ymitesh760-star&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&ring_color=22D3EE"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymitesh760-star&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1"/>
-
-<br/><br/>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=ymitesh760-star&hide_border=true&background=020617&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ymitesh760-star&bg_color=020617&color=CBD5E1&line=22D3EE&point=818CF8&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
+<img src="https://streak-stats.demolab.com?user=ymitesh760-star&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🌱 Currently Leveling Up
 
-### `06 — THE MINDSET`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Consistency+beats+motivation.;The+best+way+to+learn+is+to+build.;Every+bug+is+a+lesson.;One+commit+closer+to+the+goal."/>
-
-</div>
+| Area | Focus | Status |
+|---|---|---|
+| ⚛️ Frontend | Advanced React, animations, 3D | 🟢 Active |
+| 🟩 Backend | Node.js, Express, REST APIs | 🟡 Learning |
+| ☕ Java | Backend fundamentals | 🟡 Learning |
+| 🗄️ Databases | SQL, DBMS concepts | 🟡 Learning |
+| 🔐 Security | Cybersecurity basics | 🟡 Learning |
+| 🧠 DSA | Problem solving | 🟡 Practicing |
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-### `07 — ESTABLISH A CONNECTION`
-
-**Have an idea? Let's build something interesting.**
-
-<a href="https://www.linkedin.com/in/mitesh-yadav-b89192415/">
-<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://github.com/ymitesh760-star">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-<a href="https://mitesh-s-portfolio-ebon.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
-</a>
+<a href="https://mitesh-s-portfolio-ebon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:ymitesh760@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=150&section=footer&animation=fadeIn"/>
+<i>"Make it work, make it right, make it beautiful."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=100&section=footer" width="100%" />
 
 </div>

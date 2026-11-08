@@ -1,204 +1,273 @@
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 MITESH YADAV                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0E7490,100:2563EB&height=220&section=header&text=Mitesh%20Yadav&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Frontend%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descSize=16" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+the+web%2C+one+project+at+a+time.;Turning+ideas+into+interactive+experiences.;Learning.+Building.+Improving.+Repeating.;Future+Software+Engineer." alt="Typing SVG"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,30:0F172A,60:312E81,100:06B6D4&text=MITESH%20YADAV&fontSize=65&fontColor=FFFFFF&stroke=06B6D4&strokeWidth=1&animation=fadeIn&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20CREATIVE%20ENGINEER&descSize=16&descAlignY=65"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=I+BUILD+THINGS+THAT+LIVE+ON+THE+INTERNET.;CODE+IS+MY+CANVAS.+LOGIC+IS+MY+ART.;FROM+IDEA+%E2%86%92+CODE+%E2%86%92+REALITY.;ALWAYS+BUILDING.+NEVER+STANDING+STILL." />
+
+<br/><br/>
+
 <a href="https://mitesh-s-portfolio-ebon.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/mitesh-yadav-b89192415/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=020617"/>
 </a>
 <a href="https://github.com/ymitesh760-star">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=020617"/>
 </a>
+<a href="https://www.linkedin.com/in/mitesh-yadav-b89192415/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=020617"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ymitesh760-star&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-## `whoami`
-
-```javascript
-const mitesh = {
-    name: "Mitesh Yadav",
-    role: "B.Tech CSE Student | Software Developer",
-    location: "Mumbai, India",
-
-    focus: [
-        "Frontend Development",
-        "Full-Stack Development",
-        "Data Structures & Algorithms",
-        "Building Real-World Projects"
-    ],
-
-    currentlyLearning: [
-        "React.js",
-        "JavaScript",
-        "Backend Development",
-        "Data Structures & Algorithms"
-    ],
-
-    mindset: "Build. Break. Learn. Improve.",
-    goal: "Become a skilled Software Engineer"
-};
-```
-
-I'm a Computer Science student passionate about building meaningful digital experiences through code.
-
-I enjoy developing interactive web applications, exploring modern technologies, and solving problems that help me grow as a developer.
-
-I believe the best way to learn software engineering is by building, experimenting, and continuously improving.
-
----
-
-## `01 / Tech Stack`
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+### `01 — THE DEVELOPER`
 
 </div>
 
+```bash
+┌──[mitesh@dev-machine]──[~/profile]
+└──$ whoami
+
+    Name       : Mitesh Yadav
+    Role       : Software Developer in Progress
+    Education  : B.Tech Computer Science
+    Location   : Mumbai, India
+    Focus      : Web Development | DSA | Software Engineering
+    Philosophy : Learn Deeply. Build Boldly.
+```
+
+I'm a Computer Science student driven by curiosity, creativity, and the desire to build things that actually work.
+
+I enjoy transforming ideas into interactive digital experiences — from algorithm visualizers to modern web applications.
+
+My journey is about more than writing code. It's about understanding how things work, solving problems, and building products that people can use.
+
+**Currently in my build-and-learn era.**
+
 ---
 
-## `02 / Featured Projects`
+<div align="center">
 
+### `02 — MY ENGINEERING STACK`
+
+*The tools I use to turn ideas into reality.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### `// CORE LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js&perline=4"/>
+
+#### `// FRONTEND ENGINEERING`
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&perline=4"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### `// BACKEND & DATA`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=5"/>
+
+#### `// DEV ENVIRONMENT`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&perline=5"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `03 — SELECTED PROJECTS`
+
+*Experiments, ideas, and applications built with code.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ PATHFINDING VISUALIZER
+
+<img src="https://img.shields.io/badge/PROJECT-ALGORITHMS-312E81?style=flat-square"/>
+
+An interactive visual playground that brings pathfinding algorithms to life.
+
+**What it explores**
+- A* Search Algorithm
+- Grid-based pathfinding
+- Interactive algorithm visualization
+- Shortest-path exploration
+
+**Stack:** React · JavaScript · Algorithms
 
 <a href="https://pathfinding-visualizer-react-js-pro.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ymitesh760-star&repo=All-Project-s-Card-&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/LAUNCH%20PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-### 01. Pathfinding Visualizer
+### ◈ STYLENEST
 
-An interactive algorithm visualization application that demonstrates how pathfinding algorithms explore a grid and discover the shortest path.
+<img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-312E81?style=flat-square"/>
 
-- Algorithms: A* Search, Manhattan Distance
-- Tech: React.js, JavaScript
-- Focus: Algorithm visualization and interactive UI
+A modern fashion shopping experience built around product discovery and stylish UI.
 
-[Live Demo](https://pathfinding-visualizer-react-js-pro.vercel.app/)
+**What it explores**
+- Fashion product experience
+- Modern responsive design
+- E-commerce interface
+- Firebase integration
 
-### 02. StyleNest — E-Commerce Platform
+**Stack:** Web Development · Firebase
 
-A modern fashion e-commerce experience designed around product discovery, clean UI, and a smooth shopping experience.
+<a href="https://stylenest-ecommerce-flame.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20STYLENEST-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-- Categories: Fashion, Shoes, Perfumes
-- Tech: Web Development, Firebase
-- Focus: E-commerce experience and responsive design
+</td>
+</tr>
 
-[Live Demo](https://stylenest-ecommerce-flame.vercel.app/)
+<tr>
+<td width="50%" valign="top">
 
-### 03. DJ Miteshhh 75 — Music Studio
+### ◈ DJ MITESHHH 75
 
-A personal DJ music platform focused on showcasing remixes and providing a music streaming experience.
+<img src="https://img.shields.io/badge/PROJECT-MUSIC%20TECH-312E81?style=flat-square"/>
 
-- Audio upload and music library
+A personal music platform concept built around DJ remixes and audio experiences.
+
+**What it explores**
+- Audio upload workflows
+- Music library management
 - Firebase Authentication
-- Firebase Storage integration
-- Tech: React, JavaScript, Firebase
+- Cloud audio storage
 
-Focus: Audio streaming, music management, and interactive UI.
+**Stack:** React · JavaScript · Firebase
 
-### 04. Developer Portfolio
+</td>
+<td width="50%" valign="top">
 
-My personal portfolio showcasing projects, technical skills, and my journey as a developer.
+### ◈ DEVELOPER PORTFOLIO
 
-[Visit Portfolio](https://mitesh-s-portfolio-ebon.vercel.app/)
+<img src="https://img.shields.io/badge/PROJECT-PERSONAL%20BRAND-312E81?style=flat-square"/>
+
+My digital home — a showcase of my projects, skills, and developer journey.
+
+**What it explores**
+- Interactive UI
+- Modern animations
+- Project showcase
+- Personal branding
+
+<a href="https://mitesh-s-portfolio-ebon.vercel.app/">
+<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `03 / Currently Building`
+<div align="center">
+
+### `04 — CURRENTLY IN THE LAB`
+
+</div>
 
 ```text
-> Building interactive web applications
-> Improving React.js and JavaScript skills
-> Exploring Backend Development
-> Practicing Data Structures & Algorithms
-> Learning software engineering fundamentals
-> Turning project ideas into real products
+┌──────────────────────────────────────────────────────────┐
+│  MITESH.DEV // ACTIVE WORKSPACE                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [01]  React.js & JavaScript                             │
+│        Building modern interactive interfaces            │
+│                                                          │
+│  [02]  Data Structures & Algorithms                      │
+│        Improving problem-solving fundamentals            │
+│                                                          │
+│  [03]  Backend Development                                │
+│        Exploring APIs, databases & authentication        │
+│                                                          │
+│  [04]  Software Engineering                               │
+│        Turning project ideas into real applications      │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `04 / GitHub Activity`
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ymitesh760-star&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### `05 — GITHUB // SYSTEM METRICS`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymitesh760-star&layout=compact&theme=tokyonight&hide_border=true" />
+*My activity, repositories, and coding journey.*
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ymitesh760-star&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&ring_color=22D3EE"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymitesh760-star&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ymitesh760-star&theme=tokyonight&hide_border=true" />
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=ymitesh760-star&hide_border=true&background=020617&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ymitesh760-star&bg_color=020617&color=CBD5E1&line=22D3EE&point=818CF8&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
 
 </div>
 
 ---
 
-## `05 / Developer Mindset`
-
 <div align="center">
 
-> "Great software isn't built in a day.
-> It's built one thoughtful commit at a time."
+### `06 — THE MINDSET`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Consistency+beats+motivation.;The+best+way+to+learn+is+to+build.;Every+bug+is+a+lesson.;One+commit+closer+to+the+goal."/>
 
 </div>
 
-- Write code that solves real problems.
-- Keep learning beyond the classroom.
-- Build projects that challenge my skills.
-- Focus on consistency over perfection.
-
 ---
-
-## `06 / Let's Connect`
 
 <div align="center">
 
-I'm always open to connecting with developers, collaborating on projects, and learning from the tech community.
+### `07 — ESTABLISH A CONNECTION`
+
+**Have an idea? Let's build something interesting.**
 
 <a href="https://www.linkedin.com/in/mitesh-yadav-b89192415/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-
-<a href="https://mitesh-s-portfolio-ebon.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-38BDF8?style=for-the-badge&logo=vercel"/>
-</a>
-
 <a href="https://github.com/ymitesh760-star">
-<img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+<a href="https://mitesh-s-portfolio-ebon.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0E7490,100:050816&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=150&section=footer&animation=fadeIn"/>
 
 </div>

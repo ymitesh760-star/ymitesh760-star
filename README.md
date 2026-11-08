@@ -88,7 +88,6 @@ I believe the best way to learn software engineering is by building, experimenti
 
 ## `02 / Featured Projects`
 
-<div align="center">
 
 <a href="https://pathfinding-visualizer-react-js-pro.vercel.app/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ymitesh760-star&repo=All-Project-s-Card-&theme=tokyonight&hide_border=true" />
